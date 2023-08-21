@@ -18,7 +18,7 @@
         "php": ">=8.0",
         "aws/aws-sdk-php": "3.*",
         "laminas/laminas-filter": "2.*",
-        "laminas/laminas-servicemanager": "4.0.0-rc2",
+        "laminas/laminas-servicemanager": "2.*",
         "laminas/laminas-session": "2.16.0",
         "laminas/laminas-view": "2.30.0",
         "laminas/laminas-dependency-plugin": "2.5.0"
